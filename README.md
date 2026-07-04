@@ -1,9 +1,9 @@
-# Gym-Management-Systemنظام إدارة نادي الأبطال الرياضي
+نظام إدارة نادي الأبطال الرياضي
 Sports Club Management System Champions
 
-إعداد الطالبات: ربا إيهاب شعبان حجازي
-وفاء محمد عيسى الزقزوق
-آية أحمد محمد أبو هدة
+إعداد الطالبات: ربا إيهاب شعبان حجازي،
+وفاء محمد عيسى الزقزوق،
+آية أحمد محمد أبو هدة.
 
 ---
 
@@ -26,8 +26,6 @@ Sports Club Management System Champions
 ---
 
 
-
----
 
 وصف بسيط لألية عمل المشروع
 
@@ -66,11 +64,8 @@ Sports Club Management System Champions
 · عرض بياناته الشخصية
 · عرض الاشتراكات الخاص به
 · عرض المدفوعات الخاصة به
----
 معلومات تسجيل الدخول:
-المدير البريد الالكتروني admin2@gmail.com ، كلمة المرور Admin#2026
-المدرب البريد الالكتروني lama@gmail.com ،كلمة المرور Wafaa@@@2004
-العضو البريد الالكتروني shams@gmail.com ، كلمة المرور Wafaa@2004
-
+كلمة المرور	البريد الالكتروني	المسؤول 
+Admin#2026	admin2@gmail.com	Admin
 Wafaa@@@2004	lama@gmail.com	Trainer
 Wafaa@2004	shams@gmail.com	Member
